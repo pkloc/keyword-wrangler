@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkloc/keyword-wrangler"
+  },
   "dependencies": {
     "async": "^2.6.0",
     "db-migrate": "^0.10.1",
